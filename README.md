@@ -3,6 +3,7 @@ Project Overview:
 The application displays an input image, its grayscale version, and the result after detecting faces. The face detection is performed using OpenCV's Haar Cascade Classifier, which is a popular method for object detection, particularly for identifying human faces. The detected faces are highlighted with green rectangles.
 
 Key Components:
+
 GUI Layout:
 The application uses Tkinter to create a window with a size of 900x500 pixels.
 The window is titled "Multiple face detection using opencv" and has a cyan background.
